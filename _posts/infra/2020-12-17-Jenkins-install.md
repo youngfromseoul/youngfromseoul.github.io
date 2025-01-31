@@ -16,7 +16,7 @@ toc: true
 toc_sticky: true
 ---
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/jenkins1.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/jenkins1.png?raw=true)
 
 ## 1\. Jenkins?
 
@@ -53,7 +53,7 @@ $ yum install jenkins
 $ vim /etc/sysconfig/jenkins
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/jenkins2.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/jenkins2.png?raw=true)
 
 <br>
 * 서비스 실행
@@ -83,7 +83,7 @@ tcp6       0      0 :::8080                 :::*  �
 <br>
 * [http://xxx.xxx.xxx.xxx:8080](http://xxx.xxx.xxx.xxx:8080) 웹 접속
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/jenkins3.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/jenkins3.png?raw=true)
 
 <br>
 * 암호 확인 후 붙여넣기
@@ -94,22 +94,22 @@ cat /var/lib/jenkins/secrets/initialAdminPassword
 <br>
 * 원하는 Plugin을 선택하여 설치하고 싶을 경우, 오른쪽 메뉴 선택
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/jenkins4.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/jenkins4.png?raw=true)
 
 <br>
 * 설치 중...
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/jenkins5.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/jenkins5.png?raw=true)
 
 <br>
 * 설치 완료 후, 어드민 계정정보 생성
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/jenkins6.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/jenkins6.png?raw=true)
 
 <br>
 * 설치 완료
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/jenkins7.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/jenkins7.png?raw=true)
 
 <br>
 다른 형상관리 툴과 연동, Ansible 연동 등에 대해서도 추 후 포스팅 예정입니다.

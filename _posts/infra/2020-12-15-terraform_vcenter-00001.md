@@ -16,7 +16,7 @@ toc: true
 toc_sticky: true
 ---
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/terraform1.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/terraform1.png?raw=true)
 <br>
 
 # 1\. Terraform이란?
@@ -319,7 +319,7 @@ vm-network = "VM Network"
 terraform init
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/terraform2.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/terraform2.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform init 결과</figcaption></figure>
 
 ---
@@ -330,8 +330,8 @@ terraform init
 terraform plan
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/terraform3.png?raw=true)
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/terraform4.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/terraform3.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/terraform4.png?raw=true)
 
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform plan 결과</figcaption></figure>
 
@@ -345,7 +345,7 @@ terraform plan
 terraform apply
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/terraform5.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/terraform5.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform apply 결과</figcaption></figure>
 
 
@@ -357,7 +357,7 @@ terraform apply
 vCenter의 가상 머신
 </figure>
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/terraform6.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/terraform6.png?raw=true)
 
 
 # 5\. 가상 머신 제거
@@ -369,5 +369,5 @@ vCenter의 가상 머신
 terraform destroy
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/terraform7.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/terraform7.png?raw=true)
 <figure class="ix iy iz ja jb fm ev ew paragraph-image"><figcaption class="lt lu ex ev ew lv lw ar b as at bp" data-selectable-paragraph="">terraform destroy 결과</figcaption></figure>

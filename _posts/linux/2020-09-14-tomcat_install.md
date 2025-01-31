@@ -38,7 +38,7 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html﻿
 <br>
 <span style="color:  #333333;;">**Linux x64 Compressed Archive 다운로드**</span>
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/tomcat1.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/tomcat1.png?raw=true)
 
 <span style="color:  #333333;;">**다운로드 완료 후, FTP 등을 통하여 서버에 업로드**</span>
 <br>
@@ -108,4 +108,4 @@ tcp6 0 0 :::8080 :::* LISTEN 1574/java
 
 <span style="color:  #333333;;">**주소 창에 IP:8080으로 접속하여 톰캣 기본페이지 확인**</span>
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/tomcat2.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/tomcat2.png?raw=true)
