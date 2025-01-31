@@ -6,7 +6,8 @@ categories:
 last_modified_at: 2025-01-31T15:02:00+09:00
 tags: 
     - Kubernetes
-    - Pod Security Group
+    - IRSA
+    - Pod Identity
     - AWS
     - EKS
 author_profile: true
