@@ -280,7 +280,7 @@ test
 upload: ./index.html to s3://freey-s3-01/index.html
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/aws-03.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/aws-03.png?raw=true)
 <br>
 * 반대로 다운로드도 할 수 있다.
 

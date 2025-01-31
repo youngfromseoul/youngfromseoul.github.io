@@ -89,7 +89,7 @@ terraform {
 <br>
 * state 파일이 S3에 backend로 저장된다.
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/aws-04.png?raw=true)
+![image.png](https://youngfromseoul.github.io/assets/images/aws-04.png?raw=true)
 
 
 <br>
