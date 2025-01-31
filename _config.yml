@@ -106,9 +106,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://young-dev.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hyoyoung-k-0a50751b1/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       #url: ""
@@ -127,7 +127,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/jaden.brown.93"
+      #url: "https://www.facebook.com/jaden.brown.93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/youngfromseoul"
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/gnuoyoyh"
+      #url: "https://instagram.com/gnuoyoyh"
 
 
 # Reading Files
