@@ -2,7 +2,7 @@
 title: "클라우드에서의 SWAP Memory 사용에 대해"
 excerpt: "클라우드에서의 SWAP Memory 사용에 대해"
 categories: 
-  - Infra
+  - DevOps
 last_modified_at: 2022-05-13T12:09:00+09:00
 tags: 
     - Infra

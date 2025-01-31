@@ -2,7 +2,7 @@
 title: "[Infra] Load Balancer란?"
 excerpt: "Load Balancer Type 및 동작 방식"
 categories: 
-  - Infra
+  - Infrastructure
 last_modified_at: 2021-06-11T09:02:00+09:00
 tags: 
     - Infra

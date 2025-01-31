@@ -2,7 +2,7 @@
 title: "[IaC]Terraform 사용하기 with AWS #03 고도화"
 excerpt: "Terraform 코드 고도화하기"
 categories: 
-  - AWS
+  - DevOps
 last_modified_at: 2021-08-30T09:38:00+09:00
 tags: 
     - AWS
