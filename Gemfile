@@ -1,11 +1,6 @@
-
 source "https://rubygems.org"
 
-#gem "jekyll", "~> 3.5"
-#gem "minimal-mistakes-jekyll"
-
-
-gem "jekyll", "~> 3.6.2"
+gem "jekyll", "~> 4.4.1"
 gem "github-pages", "~> 168"
 gem "rake", "~> 12.3.0"
 
