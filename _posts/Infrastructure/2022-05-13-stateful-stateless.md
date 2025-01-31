@@ -2,7 +2,7 @@
 title: "[Infra] Stateful, Stateless 차이"
 excerpt: "스테이트풀과 스테이트리스의 차이 알기"
 categories: 
-  - Infra
+  - Infrastructure
 last_modified_at: 2022-05-13T15:24:00+09:00
 tags: 
     - Infra

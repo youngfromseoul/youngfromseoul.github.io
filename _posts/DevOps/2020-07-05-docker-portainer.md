@@ -2,7 +2,7 @@
 title: "portainer (docker 웹 관리 콘솔) 사용하기"
 excerpt: "portainer (docker 웹 관리 콘솔) 사용하기"
 categories: 
-  - Linux
+  - DevOps
 last_modified_at: 2020-07-05T23:00:00+09:00
 tags: 
     - Linux

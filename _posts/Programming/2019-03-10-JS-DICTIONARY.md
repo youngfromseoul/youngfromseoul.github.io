@@ -2,7 +2,7 @@
 title: "[Java Script] 객체란?" 
 excerpt: "자바스크립트의 객체"
 categories: 
-  - Java Script
+  - Programming
 last_modified_at: 2019-03-10T22:39:00+09:00
 tags: 
     - Java Script

@@ -2,7 +2,7 @@
 title: "[IaC]Terraform 사용하기 with AWS #01"
 excerpt: "Terraform으로 AWS 인프라 구성하기"
 categories: 
-  - AWS
+  - DevOps
 last_modified_at: 2021-08-25T15:44:00+09:00
 tags: 
     - AWS
