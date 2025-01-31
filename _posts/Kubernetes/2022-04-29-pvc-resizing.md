@@ -22,7 +22,7 @@ toc_sticky: true
 kubectl get pvc
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/eks-volume-1.PNG?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/eks-volume-1.PNG?raw=true?raw=true)
 
 * 증설 대상인 data-zabbix-postgresql-0 의 storageclass 확인 (gp2)
 
@@ -32,7 +32,7 @@ kubectl get pvc
 kubectl get sc
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/eks-volume-2.PNG?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/eks-volume-2.PNG?raw=true)
 
 * 확장이 필요한 storage class의 ALLOWVOLUMEEXPANSION 확인 시, true로 확인 / false일 경우 true로 변경
 > ALLOWVOLUMEEXPANSION 옵션은, 볼륨 확장을 허용할건지에 대한 설정으로, true로 설정해주어야 확장이 가능하다.
@@ -50,7 +50,7 @@ storage: 8Gi -> 20Gi
 * 8Gi → 20Gi 로 변경
 
 # 변경 확인
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/eks-volume-3.PNG?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/eks-volume-3.PNG?raw=true)
 
 * 콘솔 확인 시, 옵티마이징 중으로 확인 됨
 
@@ -60,6 +60,6 @@ storage: 8Gi -> 20Gi
 kubectl get pvc
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/eks-volume-4.PNG?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/eks-volume-4.PNG?raw=true)
 
 * 20Gi 변경 확인
