@@ -21,7 +21,7 @@ toc_sticky: true
 
 <br>
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/load-balancing.png?raw=true) 
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/load-balancing.png?raw=true) 
 
 <br>
 

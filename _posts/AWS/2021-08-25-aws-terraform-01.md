@@ -69,7 +69,7 @@ IaC는 코드로서의 장점, 즉 작성 용이성, 재사용성, 유지보수 
 <br>
 * AWS CLI 설치가 완료되었으면, AWS 로그인 후 Terraform용 IAM 계정 생성 및 액세스 키를 만들어준다.
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/aws-01.png?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/aws-01.png?raw=true)
 <br>
 * 이후, 아래의 커맨드를 통해 액세스 키 정보 및 리전 정보, 출력 포맷 등을 지정해준다.
 
@@ -315,7 +315,7 @@ aws_s3_bucket.test: Creation complete after 1s [id=terraform-test-4343]
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 ```
 
-![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/blob/master/assets/images/aws-02.png?raw=true)
+![image.png](https://github.com/youngfromseoul/youngfromseoul.github.io/assets/images/aws-02.png?raw=true)
 <br>
 * 아래 명령을 통해 생성된 aws 자원 확인 가능
 
