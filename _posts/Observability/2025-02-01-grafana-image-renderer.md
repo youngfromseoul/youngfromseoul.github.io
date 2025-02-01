@@ -95,6 +95,6 @@ services:
 - 기존 template 하단에 image 추가
 
 ```go
-{{ .Image }}
+  {{ .Image }}
 ```
 
