@@ -3,7 +3,7 @@ title: "secrets-store-csi-driver를 통해 AWS Secrets Manager 사용하기"
 excerpt: "kubernetes에서 AWS Secret Manager를 사용하여 Secret과 동기화하는 방법에 대해 설명합니다."
 categories:
   - Kubernetes
-last_modified_at: 2025-02-01T19:020:00+09:00
+last_modified_at: 2025-02-02T10:23:00+09:00
 tags:
   - Kubernetes
   - Secrets Manager
