@@ -22,10 +22,11 @@ toc_sticky: true
 
 헤드리스 브라우저(Chromium)를 사용하여 패널을 PNG로 렌더링하는 Grafana Plugin
 
-- 📖 [Use images in notifications | Grafana documentation](https://grafana.com/docs/grafana/v9.2/alerting/images-in-notifications/)
+[Use images in notifications | Grafana documentation](https://grafana.com/docs/grafana/v9.2/alerting/images-in-notifications/)
 
 
-과거 버전의 Grafana는 기본적으로 Alert에 Image를 포함하도록 하는 옵션이 제공되었으나, 최신 버전에서는 해당 기능이 제거 되었다. 그렇기 때문에 Alert에 패널 이미지를 포함시키려면 Image Renderer를 구성해야한다.
+
+과거 버전의 Grafana는 기본적으로 Alert에 Image를 포함하도록 하는 옵션이 제공되었으나, 최신 버전에서는 해당 기능이 제공되지 않도록 변경되었다. 그렇기 때문에 Alert에 패널 이미지를 포함시키려면 Image Renderer를 구성해야한다.
 
 
 
@@ -84,7 +85,8 @@ services:
 ```
 
 - `environment` 에 s3 구성 정보 및, renderer 설정 정보 추가
-  - 참고 : [Grafana Image Renderer plugin for Grafana | Grafana Labs](https://grafana.com/grafana/plugins/grafana-image-renderer/)
+
+참고 : [Grafana Image Renderer plugin for Grafana | Grafana Labs](https://grafana.com/grafana/plugins/grafana-image-renderer/)
 
 
 
@@ -94,7 +96,5 @@ services:
 
 - 기존 template 하단에 image 추가
 
-```go
-  {{ .Image }}
-```
+![image-20250201175641661](../../assets/images/2025-02-01-grafana-image-renderer/image-20250201175641661.png)
 
